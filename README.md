@@ -2,6 +2,8 @@
 
 This project showcases a Python client-controller/hub application using the socket library, demonstrating secure communication and accountability in distributed systems. It emphasizes the importance of connectivity within the ABCDE architecture, highlighting potential vulnerabilities without using SSL for encryption.
 
+Github https://github.com/anja-kosar/SSA-Development-Individual-Project/tree/main 
+
 
 # Python Execution & Output
 
